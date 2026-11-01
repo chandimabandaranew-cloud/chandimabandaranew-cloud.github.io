@@ -49,7 +49,7 @@ const projects = [
   },
   {
     "id": "manufacturing",
-    "title": "From workshop to working product",
+    "title": "Manufacturing project",
     "category": "Manufacturing",
     "summary": "A multifunctional pen holder combining storage, a phone stand and practical fabrication.",
     "description": "Developed for Manufacturing Technology at the University of Moratuwa, this team project transformed a concept into a functional desk accessory. The product combines a pen holder, mobile phone stand, storage drawer and decorative elements, bringing together several manufacturing processes.",
@@ -72,7 +72,7 @@ const projects = [
   },
   {
     "id": "railway",
-    "title": "Rethinking locomotive maintenance",
+    "title": "Production and operation management project",
     "category": "Operations",
     "summary": "A process improvement study at Sri Lanka Railways’ Dematagoda Running Shed.",
     "description": "A study of existing locomotive maintenance processes, informed by site observations and discussions. The project identifies opportunities in handling heavy components, waste management, workspace organization, roof coverage and drainage. Proposed improvements are evaluated through handling time, worker effort, space utilization and maintenance delays.",
@@ -97,7 +97,7 @@ const projects = [
   },
   {
     "id": "lamp",
-    "title": "Inside a table lamp",
+    "title": "Reverse engineering of a table lamp",
     "category": "Manufacturing",
     "summary": "Reverse engineering an everyday product to understand materials and manufacturing choices.",
     "description": "A Semester 4 Manufacturing Engineering team project involving disassembly and analysis of five key components of a table lamp. The study considers materials, manufacturing methods, alternative processes and the trade-offs between cost, durability, performance and manufacturability.",
